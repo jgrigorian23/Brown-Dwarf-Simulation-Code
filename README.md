@@ -1,1 +1,1 @@
-# Caltech-Code
+# Brown Dwarf Simulation Code
