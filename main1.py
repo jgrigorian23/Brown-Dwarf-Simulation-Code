@@ -1,3 +1,5 @@
+#Written by Yadukrishna Raghu and Jake Grigorian
+
 import math
 import random
 import decimal
