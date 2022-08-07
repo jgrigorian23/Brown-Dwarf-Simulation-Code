@@ -4,20 +4,7 @@ import math
 import random
 import decimal
 
-def nums(start, stop, num):
-    start=decimal.Decimal(str(start))
-    stop = decimal.Decimal(str(stop))
-    num=decimal.Decimal(str(num))
 
-    num_range=stop-start
-    width=num_range/num
-    count=0
-    lst=[]
-    while count<num_range:
-        lst.append(float(start))
-        start+=width
-        count+=width
-    return lst
 #INTERPOLATION
 
 def b_int(x1, x2, y1, y2, f1, f2, f3, f4, x, y):
